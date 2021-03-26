@@ -1,0 +1,28 @@
+body {
+  background-color: #e1f4f3;
+}
+
+hr {
+  background-color: #e1f4f3;
+  border-style: dotted none none;
+  height: 0px;
+  width: 35%;
+  border-color:#706c61;
+  border-width: 6px;
+}
+
+h1, h3, th {
+  color: #333333;
+}
+
+p, td {
+  color: #706c61;
+}
+
+a {
+  color: #92967d;
+}
+
+a:hover {
+  color: #4592af;
+}
